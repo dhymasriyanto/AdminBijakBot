@@ -8,10 +8,10 @@ Gunakan `npm install` untuk menginstall node module yang dibutuhkan untuk bot in
 Gunakan token yang tepat pada file `auth.json` (token saya berikan pribadi)
 
 # Code!
-Mulai `coding` program pada file `bot.js`.
+Mulai `coding` program pada file `bot.js`
 
 # File commands?
-File tersebut sedang dieksperimenkan untuk menjadi daftar commands. :v
+File tersebut sedang dieksperimenkan untuk menjadi daftar commands :v
 
 # RUN OUR BOT!
-Gunakan perintah `node bot.js` pada server (yang mana belum ada awkwkwk).
+Gunakan perintah `node bot.js` untuk running bot pada server (yang mana belum ada awkwkwk)
