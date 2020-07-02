@@ -2,11 +2,27 @@
   "name": "admin-bijak",
   "version": "0.0.0",
   "description": "my first discord bot",
-  "main": "bot.js",
+  "main": "express.js",
   "author": "LISA",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node express.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
   "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord-youtube-api": "^0.1.0",
     "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
-    "discord.js": "^12.1.1",
-    "winston": "^3.2.1"
+    "discord.js": "^12.2.0",
+    "enmap": "^5.3.1",
+    "express": "^4.17.1",
+    "ffmpeg": "0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "winston": "^3.3.3",
+    "ytdl-core": "^3.1.1"
   }
 }
